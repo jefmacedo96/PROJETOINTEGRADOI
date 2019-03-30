@@ -1,1 +1,3 @@
-# PROJETOINTEGRADOI
+# Repositório da APLICAÇÃO WEB
+
+## Detalhes da implementação
